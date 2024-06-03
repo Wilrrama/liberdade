@@ -39,7 +39,7 @@ export const Achievements = () => {
                       />
                     </a>
                     <figcaption>
-                      <p>Copa Amizade 2024</p>
+                      <p></p>
                     </figcaption>
                   </figure>
                 </td>

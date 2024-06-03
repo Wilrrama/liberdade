@@ -1,19 +1,19 @@
-# Aplicação Desenvolvida para o time Campeão da Copa Euro 2024, organizado pela Liga Hortolandense
+# Aplicação Desenvolvida para o time Campeão da Copa Amizade 2024, organizado pela Liga Hortolandense
 
-## Rosália Campeão
+## Liberdade Campeão
 
 Esta aplicação contém:
 
-História da Equipe
+História do jogo final
 
-Elenco campeão da copa euro 2024
+Elenco campeão
 
 Galeria de Títulos
 
-Link para os patriocinadores e organização do evento
+Link para os patriocinadores, organização do evento, Final no Youtube e link para a pagina da competição
 
 Criação e edição de uma Lista de Pessoas
 
 Criação e edição de uma Lista de Itens
 
-Feito em React Vite + Styled Components
+Feito em React Vite + Styled Components + React Icons + Context + Theme Provider + Swipper

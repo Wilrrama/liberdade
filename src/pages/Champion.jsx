@@ -55,13 +55,14 @@ export const Champion = () => {
             primeira estrela reluzente ao seu glorioso escudo. A Copa Amizade
             2024 contou com a participação de 14 equipes e foi marcada por uma
             competição intensa, envolvendo times de renome e promovendo partidas
-            memoráveis. Vale destacar o papel do líder do Liberdade, Eliandro da
-            Silva, carinhosamente conhecido como Porquinho. Ele está à frente do
-            projeto Liberdade, na cidade de Paulínia, dedicado à formação de
-            atletas. Eliandro é professor e responsável pelas categorias de
-            base, que vão dos 8 aos 20 anos. Além disso, ele também cuida das
-            outras categorias, como amador, veterano e master, demonstrando seu
-            comprometimento com o desenvolvimento do esporte na região.
+            memoráveis. Vale destacar o papel do líder do Liberdade, Eleandro
+            Aparecido Durante, carinhosamente conhecido como Porquinho. Ele está
+            à frente do projeto Liberdade, na cidade de Paulínia, dedicado à
+            formação de atletas. Eleandro é professor e responsável pelas
+            categorias de base, que vão dos 8 aos 20 anos. Além disso, ele
+            também cuida das outras categorias, como amador, veterano e master,
+            demonstrando seu comprometimento com o desenvolvimento do esporte na
+            região.
           </p>
         </div>
       </StyledMain>
