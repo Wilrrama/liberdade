@@ -17,3 +17,7 @@ Criação e edição de uma Lista de Pessoas
 Criação e edição de uma Lista de Itens
 
 Feito em React Vite + Styled Components + React Icons + Context + Theme Provider + Swipper
+
+Link: <https://liberdade.vercel.app/>
+
+![Alt text](Screenshot.jpg)

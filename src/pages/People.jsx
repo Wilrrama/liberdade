@@ -16,7 +16,7 @@ export const People = () => {
   const [valueNumber, setValueNumber] = useState("");
   const [valueRole, setValueRole] = useState("");
   const [editId, setEditId] = useState(null);
-  const { nameList, addName, removeName, editName, removeAll, handleEdit } =
+  const { nameList, addName, removeName, editName, removeAll } =
     useContext(NameContext);
 
   const handleSubmit = (event) => {
@@ -40,6 +40,13 @@ export const People = () => {
     setValueName("");
     setValueNumber("");
     setValueRole("");
+  };
+
+  const handleEdit = (name) => {
+    setEditId(name.id);
+    setValueName(name.text);
+    setValueNumber(name.number);
+    setValueRole(name.role);
   };
 
   return (

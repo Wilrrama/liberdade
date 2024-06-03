@@ -28,13 +28,6 @@ export const NameProvider = ({ children }) => {
     }
   };
 
-  const handleEdit = (name) => {
-    setEditId(name.id);
-    setValueName(name.text);
-    setValueNumber(name.number);
-    setValueRole(name.role);
-  };
-
   useEffect(() => {
     const storedList = localStorage.getItem("@nameList");
     if (storedList) {
@@ -54,7 +47,6 @@ export const NameProvider = ({ children }) => {
         removeName,
         editName,
         removeAll,
-        handleEdit,
       }}
     >
       {children}
