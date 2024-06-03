@@ -20,4 +20,4 @@ Feito em React Vite + Styled Components + React Icons + Context + Theme Provider
 
 Link: <https://liberdade.vercel.app/>
 
-![Alt text](Screenshot.jpg)
+![Alt text](screenshot.jpg)
